@@ -1,0 +1,9 @@
+packages/*
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+rotatetext/bin/*
+rotatetext/obj/*
+rotatetext.userprefs
+
